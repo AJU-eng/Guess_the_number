@@ -1,6 +1,6 @@
 
 #section{
-    background-color:#56AA3F;
+    background-color:rgb(255, 255, 0);
     height: 100vh;
     margin-top: -50px;
     padding-top: 50px;
@@ -51,6 +51,10 @@
     margin-left: 420px;
     margin-top: 50px;
     height: 91px;
+    width: 200px;
+    /* width: 200px; */
+    font-size:50px;
+    text-align: center;
 }
 
 #check_btn{
@@ -73,3 +77,10 @@
     margin-top: -170px;
 }
 
+#status{
+  font-size: 30px;
+}
+
+.score{
+    font-size:25px ;
+}
